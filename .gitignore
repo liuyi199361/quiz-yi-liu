@@ -1,3 +1,15 @@
+# Ignore these files
+*.csv
+*.xlsx
+*.zip
+*.xls
+*.DS_store
+
+Link for data files: https://drive.google.com/drive/folders/1piAvm6JZdaMnpPjLI46ItL3MCj5cyd42?usp=share_link
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
